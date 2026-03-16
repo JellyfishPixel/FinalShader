@@ -72,10 +72,10 @@ Material:
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
     - _FoamAmount: 4.5
-    - _FoamCutoff: 10.05
-    - _FoamScale: 160.54
+    - _FoamCutoff: 3.79
+    - _FoamScale: 142.81
     - _FoamSpeed: 2.05
-    - _HighFrequency: 1
+    - _HighFrequency: 0.1
     - _MaterialID: 1
     - _MaterialTypeMask: 2
     - _NormalStrength: -0.67
