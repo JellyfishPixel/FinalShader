@@ -70,7 +70,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _FresnelPower: 3.73
+    - _FresnelPower: 2.85
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RenderQueueType: 4
@@ -100,7 +100,7 @@ Material:
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FresnelColor: {r: 1.2243332, g: 0, b: 4.1327987, a: 1}
+    - _FresnelColor: {r: 3.3797069, g: 0, b: 11.324976, a: 1}
     - _ScanLinesSpeed: {r: 0, g: 1, b: 0, a: 0}
     - _ScanLinesTiling: {r: 1, g: 32, b: 0, a: 0}
   m_BuildTextureStacks: []

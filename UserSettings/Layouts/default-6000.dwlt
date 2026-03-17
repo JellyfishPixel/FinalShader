@@ -334,10 +334,10 @@ MonoBehaviour:
   m_MinSize: {x: 50, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: HologramShader
+    m_Text: HologramShader (nothing loaded)
     m_Image: {fileID: 2800000, guid: 7129268cf102b2f45809905bcb27ce8b, type: 3}
     m_Tooltip: 
-    m_TextWithWhitespace: "HologramShader\u200B"
+    m_TextWithWhitespace: "HologramShader (nothing loaded)\u200B"
   m_Pos:
     serializedVersion: 2
     x: 233
@@ -2014,8 +2014,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 76c50000
+      m_LastClickedID: 50550
       m_ExpandedIDs: 12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -2550,9 +2550,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -10.957593, y: 3.2159052, z: -47.439022}
+    m_Target: {x: -8.897548, y: -11.965749, z: -3.9421816}
     speed: 2
-    m_Value: {x: -10.957593, y: 3.2159052, z: -47.439022}
+    m_Value: {x: -8.897548, y: -11.965749, z: -3.9421816}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2598,13 +2598,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.13766044, y: 0.6307694, z: -0.11494545, w: -0.75501543}
+    m_Target: {x: -0.25441706, y: 0.3349952, z: -0.09442834, w: -0.90234846}
     speed: 2
-    m_Value: {x: -0.1374823, y: 0.6318756, z: -0.11514714, w: -0.75403786}
+    m_Value: {x: -0.2530507, y: 0.33511984, z: -0.09392098, w: -0.9026842}
   m_Size:
     m_Target: 26.601166
     speed: 2
-    m_Value: 27.854624
+    m_Value: 26.601166
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2786,7 +2786,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Shader
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2796,16 +2796,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Shader
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Univer\FinalShader
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 12}
-    m_SelectedIDs: 2ec70000
-    m_LastClickedID: 50990
-    m_ExpandedIDs: 000000002ec7000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 24}
+    m_SelectedIDs: 42c80000
+    m_LastClickedID: 51266
+    m_ExpandedIDs: 000000003ec7000042c8000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2834,7 +2834,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002ec70000
+    m_ExpandedIDs: 000000003ec70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2862,7 +2862,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000008ea000034e5000004ea00000cea000030e50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2880,7 +2880,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
