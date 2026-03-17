@@ -55,9 +55,9 @@ Material:
     m_Floats:
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
-    - _AlphaDstBlend: 1
+    - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
-    - _BlendMode: 1
+    - _BlendMode: 0
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
@@ -66,7 +66,7 @@ Material:
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
-    - _DstBlend: 1
+    - _DstBlend: 10
     - _DstBlend2: 10
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
@@ -120,12 +120,12 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - _DeepColor: {r: 0.3722855, g: 0.46005446, b: 0.8867924, a: 1}
+    - _DeepColor: {r: 0.16509432, g: 0.61322784, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
     - _RefractionScale: {r: 1, g: 1, b: 0, a: 0}
-    - _Surface_Color: {r: 0.21787111, g: 0.59967506, b: 0.9056604, a: 1}
+    - _Surface_Color: {r: 0.3915094, g: 0.9086097, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1154312605827036827
